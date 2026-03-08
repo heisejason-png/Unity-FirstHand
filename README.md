@@ -81,4 +81,5 @@ The haptics scene demonstrates the features of the Haptics SDK. To run the scene
 *Kinesis Modules* - Demonstrate ISDK's Distance Grab feature
 
 *Kite Controller* - Demonstrates modulating haptics at runtime
+
 Created by Jason Scott Heise
